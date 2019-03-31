@@ -1,0 +1,14 @@
+flags: {}
+packages:
+- '.'
+extra-deps: []
+resolver: 'lts-4.2'
+docker:
+  enable: true
+  image: "verbs"
+  env:
+    - "ES_HOST=localhost"
+    - "ES_USER=verbos"
+    - "ES_PWORD=passw0rd"
+    - "ES_DB=verbos"
+    - "PORT=8081"
