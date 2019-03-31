@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/lwm/es-api.svg)][1]
-![GHC Versions](https://img.shields.io/badge/GHC-7.10.2-brightgreen.svg)
-![License](https://img.shields.io/badge/license-AGPLv3-brightgreen.svg)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+This is copy of a repo in Gitcoop:  https://git.coop/decentral1se/es-api
+I believe I've copied it under its licensed terms in Gitcoop.
+I'm playing around to see how to launch it as an API service for a verb conjugator project.
+
+3/31/19 Notified decentral1se the repo's owner about use.
 
 # es-api: spanish verb conjugation web API
 A Spanish verb conjugator web API. This API can be consumed by clients who need
